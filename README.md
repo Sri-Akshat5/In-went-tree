@@ -32,7 +32,7 @@ An **Inventory Management System** built with **React, Vite, Tailwind CSS**, and
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/inventory-management.git
+git clone https://github.com/Sri-Akshat5/In-went-tree.git
 cd inventory-management
 ```
 ### **2️⃣ Install Dependencies**
